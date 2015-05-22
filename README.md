@@ -1,15 +1,10 @@
-<<<<<<< HEAD
----
-title: "Read ME"
-output: html_document
----
+
+# GettingAndCleaningData
 
 This file describes the workin of the attached run_analaysis.R  file.
 =======
-# GettingAndCleaningData
 
-This file describes the working of the attached run_analaysis.R  file.
->>>>>>> a5f12afafbd049fbf33ca1993cd32e932f75817a
+ 
 
 1 )  Unzip the dataset.zip file ( https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ) into your local folder.
 
@@ -20,7 +15,5 @@ This file describes the working of the attached run_analaysis.R  file.
 4) Use data <- read.table("averages_dataset.txt") to read the data. 
 
 5) Use View(data) to open the data in R Studio.
-<<<<<<< HEAD
-
-=======
->>>>>>> a5f12afafbd049fbf33ca1993cd32e932f75817a
+ 
+ 
