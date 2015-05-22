@@ -1,10 +1,7 @@
 
 # GettingAndCleaningData
 
-This file describes the workin of the attached run_analaysis.R  file.
-=======
-
- 
+This file describes the working of the attached run_analaysis.R  file.
 
 1 )  Unzip the dataset.zip file ( https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ) into your local folder.
 
