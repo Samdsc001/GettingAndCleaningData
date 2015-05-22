@@ -1,8 +1,4 @@
----
-title: "Code Book"
-output: html_document
----
-
+ 
 This code book will describe the variables used in the attached run_analysis.R script
 
 1) The script will read train/X_train.txt and test/X_test.txt into trainingSet and trainingLabel variables respectively.   This data is then combined and stored in the trainingCombined variable.
